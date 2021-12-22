@@ -1,0 +1,25 @@
+.bio{
+    background-color: mediumseagreen;
+    
+    border-width: 15px;
+    border-style: solid;
+    display: inline-block;
+
+}
+
+.btn{
+    box-sizing: border-box;
+    background-color: transparent;
+    border: 2px solid #e74c3c;
+    border-radius: 0.6em;
+    margin: 20px;
+    padding: 1.2em 2.8em;
+    text-align: left;
+    font-family: 'Monsterrat',sans-serif;
+    font-weight: 700;
+}   
+
+
+
+
+
